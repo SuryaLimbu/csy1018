@@ -1,0 +1,78 @@
+body{
+	background-color:24292E;
+	margin:10px;
+	
+}
+header{
+	width:100%;
+	margin-bottom:0.5%;
+
+}
+.logo{
+	padding:40px;
+	background-color:0000FF;
+	float:left;
+	width:35%;
+	
+}
+
+.email{
+	float:left;
+	width:52.6%;
+	padding:40px;
+	background-color:008000;
+	color:0000FF;
+}
+.clear{
+	clear:both;
+}
+nav{
+	text-align:center;
+	width:98.7%;
+	padding:5px;
+	background-color:red;
+	margin-bottom:0.5%;
+	
+}
+nav img{
+	border-radius:10px;
+	width:100px;
+	height:100px;
+}
+ul{
+	
+	margin-left:-30px;
+}
+li{
+	background-color:yellow;
+	display:inline;
+	padding:10px;
+	color:black;
+	margin-left:10px;
+}
+section{
+	width:100%;
+	margin-bottom:0.5%;
+}
+.leftbar{
+	float:left;
+	width:30%;
+	padding:40px;
+	background-color:FFFF00;
+}
+
+.rightbar{
+	float:left;
+	padding:40px;
+	background-color:008000;
+	width:57.5%;
+}
+footer{
+	text-align:center;
+	margin-top:0.5%;
+	width:97.7%;
+	background-color:yellow;
+	float:left;
+	padding:10px;
+}
+
